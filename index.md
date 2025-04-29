@@ -26,16 +26,15 @@ Todo el procesamiento de audio se realiza localmente en el dispositivo. No se ut
 
 Cualquier cambio en esta política será informado mediante actualización de esta página y, si corresponde, desde el interior de la app.
 
-## 6. Contacto
-
-Si tenés preguntas sobre esta política de privacidad, podés contactarte a:
-
-## 7. Test de Audición
+## 6. Test de Audición
 
 La aplicación incluye una prueba auditiva básica que reproduce tonos en distintas frecuencias para que el usuario indique su nivel de percepción. Esta función no graba ni analiza la voz del usuario ni guarda ningún audio.
 
 Los resultados se almacenan **únicamente en el dispositivo local** y se utilizan para personalizar la experiencia auditiva dentro de la app. No se transmiten a servidores ni se comparten con terceros.
 
+## 7. Contacto
+
+Si tenés preguntas sobre esta política de privacidad, podés contactarte a:
 
 📧 **escuchoapp@gmail.com**
 
