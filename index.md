@@ -1,41 +1,47 @@
 # Política de Privacidad - Escucho App
 
-Fecha de actualización: 29/04/2025
+**Fecha de actualización:** 01/05/2025
 
-La aplicación móvil **Escucho**, desarrollada por Yair Fernandez, está diseñada para asistir a personas con hipoacusia mediante la transmisión en tiempo real del sonido ambiente a un dispositivo Bluetooth, como auriculares. Además, ofrece soluciones de escucha a distancia para personas sin hipoacusia.
+La aplicación móvil **Escucho**, desarrollada por Yair Fernandez, está diseñada para asistir a personas con hipoacusia mediante la transmisión en tiempo real del sonido ambiente a un dispositivo Bluetooth, como auriculares. También ofrece soluciones de escucha a distancia para personas sin hipoacusia.
 
 ## 1. Acceso al micrófono
 
-La aplicación requiere acceso al **micrófono del dispositivo** únicamente mientras el usuario activa la función de escucha. El audio captado se procesa localmente en tiempo real y se transmite exclusivamente al dispositivo Bluetooth emparejado.
+La aplicación requiere acceso al **micrófono del dispositivo** únicamente mientras el usuario activa la función de escucha. El audio captado se procesa **localmente** en tiempo real y se transmite exclusivamente al dispositivo de salida de audio.
 
 **No se graban, almacenan ni comparten datos de audio**, ni localmente ni en la nube. No se realiza análisis ni persistencia de las señales de audio captadas.
 
 ## 2. Uso del Bluetooth
 
-La app necesita acceso a funciones de **Bluetooth** para detectar y comunicarse con dispositivos de salida de audio (auriculares). Este acceso es utilizado exclusivamente para la funcionalidad principal de la app y no implica recopilación de datos personales.
+La app necesita acceso a funciones de **Bluetooth** para detectar y comunicarse con dispositivos de salida de audio (auriculares u otros). Este acceso se utiliza exclusivamente para la funcionalidad principal de la app y **no implica recopilación ni transmisión de datos personales**.
 
-## 3. Recopilación de datos
+## 3. Notificaciones y ejecución en segundo plano
 
-La aplicación **no recopila ni transmite ningún tipo de información personal**, identificable o sensible. No se solicita registro de usuario, ubicación, ni ningún otro dato adicional.
+Escucho puede ejecutarse en segundo plano para permitir la continuidad de la reproducción del audio captado. Por esta razón, se emiten **notificaciones persistentes** que informan al usuario que la aplicación está activa. Estas notificaciones no recopilan ni transmiten datos.
 
-## 4. Seguridad
+## 4. Prueba de audición
 
-Todo el procesamiento de audio se realiza localmente en el dispositivo. No se utilizan servidores externos ni se transfieren datos fuera del teléfono. La app no incluye servicios de terceros que recojan información automáticamente.
+La aplicación incluye una **prueba auditiva básica** que reproduce tonos en distintas frecuencias para que el usuario indique su nivel de percepción. Esta función no graba ni analiza la voz del usuario ni guarda ningún audio.
 
-## 5. Cambios en esta política
+Los resultados se almacenan **exclusivamente en el dispositivo local** y se utilizan para personalizar la experiencia auditiva. No se transmiten a servidores ni se comparten con terceros.
 
-Cualquier cambio en esta política será informado mediante actualización de esta página y, si corresponde, desde el interior de la app.
+## 5. Servicios de terceros
 
-## 6. Test de Audición
+La aplicación utiliza **Firebase Crashlytics** para recolectar datos anónimos sobre fallos técnicos y errores de funcionamiento. Esta información puede incluir datos técnicos del dispositivo (como modelo, sistema operativo y tipo de error), pero **no contiene datos personales ni identificables**.
 
-La aplicación incluye una prueba auditiva básica que reproduce tonos en distintas frecuencias para que el usuario indique su nivel de percepción. Esta función no graba ni analiza la voz del usuario ni guarda ningún audio.
+El uso de Firebase se realiza con el único fin de mejorar la estabilidad y rendimiento de la aplicación.
 
-Los resultados se almacenan **únicamente en el dispositivo local** y se utilizan para personalizar la experiencia auditiva dentro de la app. No se transmiten a servidores ni se comparten con terceros.
+## 6. Seguridad
 
-## 7. Contacto
+Todo el procesamiento de audio se realiza de forma **local** en el dispositivo. No se utilizan servidores externos para procesamiento de audio, ni se transfieren datos fuera del teléfono salvo los estrictamente necesarios para la funcionalidad de Crashlytics.
 
-Si tenés preguntas sobre esta política de privacidad, podés contactarte a:
+La app no solicita ni accede a información de usuario como nombre, correo, ubicación, contactos u otra información sensible.
+
+## 7. Cambios en esta política
+
+Cualquier cambio en esta política será informado mediante actualización de esta página y, si corresponde, desde el interior de la aplicación.
+
+## 8. Contacto
+
+Si tiene preguntas sobre esta política de privacidad, puede contactarse a:
 
 📧 **escuchoapp@gmail.com**
-
----
