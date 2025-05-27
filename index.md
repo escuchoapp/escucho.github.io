@@ -1,8 +1,8 @@
 # Política de Privacidad - Escucho App
 
-**Fecha de actualización:** 01/05/2025
+**Fecha de actualización:** 27/05/2025
 
-La aplicación móvil **Escucho**, desarrollada por Yair Fernandez, está diseñada para asistir a personas con hipoacusia mediante la transmisión en tiempo real del sonido ambiente a un dispositivo Bluetooth, como auriculares. También ofrece soluciones de escucha a distancia para personas sin hipoacusia.
+La aplicación móvil **Escucho**, desarrollada por Yair Fernandez, está diseñada para permitir a las personas hacer uso de la transmisión en tiempo real del sonido ambiente a un dispositivo Bluetooth, como auriculares. Esto ofrece soluciones de escucha a distancia o en ambientes ruidosos.
 
 ## 1. Acceso al micrófono
 
@@ -22,7 +22,7 @@ Escucho puede ejecutarse en segundo plano para permitir la continuidad de la rep
 
 La aplicación incluye una **prueba auditiva básica** que reproduce tonos en distintas frecuencias para que el usuario indique su nivel de percepción. Esta función no graba ni analiza la voz del usuario ni guarda ningún audio.
 
-Los resultados se almacenan **exclusivamente en el dispositivo local** y se utilizan para personalizar la experiencia auditiva. No se transmiten a servidores ni se comparten con terceros.
+Los resultados se almacenan **exclusivamente en el dispositivo local** y se utilizan para personalizar la experiencia auditiva. No se transmiten a servidores ni se comparten con terceros. Tampoco se trata de una prueba médica, solo está diseñada para personalizar el uso de la ecualización disponible en la app.
 
 ## 5. Servicios de terceros
 
